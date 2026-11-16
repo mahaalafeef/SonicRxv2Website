@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { ArrowRight, BrainCircuit, CircleDot, Dna, FlaskConical, Focus, Mail, ShieldCheck, Sparkles, Waves } from 'lucide-react';
 import { Header } from '@/components/header';
 import { site } from '@/data/site';
